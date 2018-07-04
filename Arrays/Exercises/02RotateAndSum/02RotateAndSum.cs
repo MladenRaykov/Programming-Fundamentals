@@ -40,3 +40,5 @@ namespace _02RotateAndSum
         }
     }
 }
+
+// Hello there
